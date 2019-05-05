@@ -1,1 +1,1 @@
-# spin_coater
+# spin-coater
